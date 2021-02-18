@@ -3,7 +3,10 @@
 
 
 ## OnBoarding Page
+
 A simple onboarding UI with stock images
+
+
 <img src="https://github.com/Ayushbrainer/onBoarding/blob/main/Screenshot_1613624336.png" alt="drawing" width="200"/>
 
 ## SignUp Page
